@@ -1,12 +1,18 @@
 public class BankAccount {
+
+    //Encapsulation -- Propierties
     private String Owner;
     private double Balance;
 
+    //Constructor
     public BankAccount(String owner, double balance) {
         Owner = owner;
         Balance = balance;
     }
 
+    //Getter and Setter
+
+    //Getter
     public String getOwner() {
         return Owner;
     }
@@ -16,6 +22,7 @@ public class BankAccount {
         return Balance;
     }
 
+    //Setter
     public void setOwner(String owner) {
         Owner = owner;
     }
@@ -23,6 +30,7 @@ public class BankAccount {
     public void setBalance(double balance) {
         Balance = balance;
     }
+
 
     //Alternativ und much better we can set public double and return it
     public void Withdraw(double Withdraw){
