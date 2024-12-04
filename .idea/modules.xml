@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ObjektorientierteJava_Programmierung.iml" filepath="$PROJECT_DIR$/ObjektorientierteJava_Programmierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_Programmierung_Exercise.iml" filepath="$PROJECT_DIR$/OOP_Java_Programmierung_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vererbung/Vererbung.iml" filepath="$PROJECT_DIR$/Vererbung/Vererbung.iml" />
     </modules>
   </component>
